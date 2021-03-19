@@ -1,2 +1,2 @@
 # DiscordSpamBot
-Simple discord bot that spams. That's all.
+## Bot made by Bana#3175
