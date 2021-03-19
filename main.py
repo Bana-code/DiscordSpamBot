@@ -13,8 +13,8 @@ import discord
 from discord.ext import commands
 
 # put your credentials here.
-clienttoken = "UID/63ioe#IVUnfvti.6EyAb77NAOPAy9Noi"
-spam = "GET SPAMMED LOL"
+clienttoken = "YOUR_TOKEN_HERE"
+spam = "THE_MESSAGE_YOU_WANT_TO_SPAM"
 
 # Bot prefix don't touch.
 client = commands.Bot(command_prefix = "s.")
