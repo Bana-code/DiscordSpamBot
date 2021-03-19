@@ -6,7 +6,7 @@ Open [Discord Developer Portal here](https://discord.com/developers/applications
 Click "New Application"
 ![Click "New Application"](https://cdn.discordapp.com/attachments/699214804551991336/822447586773827614/rcBlMfggdBfjf8DmTI8CD4KqyAAAAAASUVORK5CYII.png)
 ---
-Name your Application because that will be your bot's name
+Name your Application because that will be your bot's name. I'm naming mine as test8008
 ![Name your Application because that will be your bot's name](https://cdn.discordapp.com/attachments/699214804551991336/822447979461607444/A4hiHA3yHZiXAAAAAElFTkSuQmCC.png)
 ---
 After that click create
@@ -34,4 +34,24 @@ Download this repository as .zip and extract it.
 ---
 Click "Upload File" and upload all the content
 These are..
-* Main.py
+* Main.py - VERY IMPORTANT!!
+* poetry.lock - IMPORTANT
+* pyproject.toml - IMPORTANT
+---
+In line 16 rename YOUR_TOKEN_HERE between the quotation marks.
+it should be something like this.
+![In line 16 rename YOUR_TOKEN_HERE between the quotation marks.](https://cdn.discordapp.com/attachments/699214804551991336/822466202797342770/r3uO5hwEPAwuTgf8HfiqBO5aMejkAAAAASUVORK5CYII.png)
+---
+After that in line 17 rename THE_MESSAGE_YOU_WANT_TO_SPAM between the quotation marks.
+it should be something like this
+![After that in line 17 rename THE_MESSAGE_YOU_WANT_TO_SPAM between the quotation marks.](https://cdn.discordapp.com/attachments/699214804551991336/822467316054622228/XhYBFgErAuPfk1jl7J1FgEVg5iDA8nzmfJdsJiwCjhCYMXW7owRZOYsAi8D4f36wiLAIsAjMQARmEcj04noGpsamxCLAImBB4PN4.png)
+---
+If you don't understand anything here's another explanation.
+![If you don't understand anything here's another explanation.](https://cdn.discordapp.com/attachments/699214804551991336/822451401808412692/AowrCrHnwAAAAAElFTkSuQmCC.png)
+---
+AFTER THAT CLICK "RUN"!
+---
+# Thank you for using my spam bot :)
+## Suggestions are being read just DM me or join my server: Bana#3175
+## Join my server: https://discord.gg/ua76vwxPv6
+## If it doesn't work im so sorry but it worked for me.
