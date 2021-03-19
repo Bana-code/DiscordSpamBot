@@ -35,8 +35,7 @@ Download this repository as .zip and extract it.
 Click "Upload File" and upload all the content
 These are..
 * Main.py - VERY IMPORTANT!!
-* poetry.lock - IMPORTANT
-* pyproject.toml - IMPORTANT
+* That's all lol.
 ---
 In line 16 rename YOUR_TOKEN_HERE between the quotation marks.
 it should be something like this.
