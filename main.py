@@ -28,6 +28,9 @@ async def on_ready():
 @client.event
 async def on_message(message):
   if message.content == "s.start":
+    await message.channel.send("Spam code made by: Bana#3175")
+    await message.channel.send("https://github.com/Bana-code/DiscordSpamBot")
+    await message.channel.send("Successfully Started")
     while 3 > 2:
       await message.channel.send(spam)
       await message.channel.send(spam)
