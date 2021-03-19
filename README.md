@@ -35,6 +35,7 @@ Download this repository as .zip and extract it.
 Click "Upload File" and upload all the content
 These are..
 * Main.py - VERY IMPORTANT!!
+* requirements.txt - Least VERY IMPORTANT! (this is just to if you want it o get into heroku)
 * That's all lol.
 ---
 In line 16 rename YOUR_TOKEN_HERE between the quotation marks.
