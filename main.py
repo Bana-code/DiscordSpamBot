@@ -1,5 +1,5 @@
 # created by Bana#3175, Bana-code
-#
+# 
 # WARNING:
 #
 # After you call s.start he will spam forever
@@ -13,7 +13,7 @@ import discord
 from discord.ext import commands
 
 # put your credentials here.
-clienttoken = "YOUR_TOKEN_HERE"
+clienttoken = "ODIyNDE0NTkzODU0NTM3NzM4.YFR7Rg.8nelCVR7sdfSzyNWLJYR2OKXaq0"
 spam = "THE_MESSAGE_YOU_WANT_TO_SPAM"
 
 # Bot prefix don't touch.
@@ -28,8 +28,8 @@ async def on_ready():
 @client.event
 async def on_message(message):
   if message.content == "s.start":
-    await message.channel.send("Spam code made by: Bana#3175")
-    await message.channel.send("https://github.com/Bana-code/DiscordSpamBot")
+    await message.channel.send("Spam bot code made by: Bana#3175")
+    await message.channel.send("||https://github.com/Bana-code/DiscordSpamBot||")
     await message.channel.send("Successfully Started")
     while 3 > 2:
       await message.channel.send(spam)
