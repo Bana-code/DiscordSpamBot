@@ -13,7 +13,7 @@ import discord
 from discord.ext import commands
 
 # put your credentials here.
-clienttoken = "ODIyNDE0NTkzODU0NTM3NzM4.YFR7Rg.8nelCVR7sdfSzyNWLJYR2OKXaq0"
+clienttoken = "BOT_TOKEN_HERE"
 spam = "THE_MESSAGE_YOU_WANT_TO_SPAM"
 
 # Bot prefix don't touch.
