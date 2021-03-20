@@ -5,6 +5,7 @@
 ### Instructions on how to get it.
 ---
 Download this repository as .zip and then extract it
+---
 Open [Discord Developer Portal here](https://discord.com/developers/applications)
 ---
 Click "New Application"
