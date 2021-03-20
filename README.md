@@ -4,7 +4,7 @@
 ## To start do s.start
 ### Instructions on how to get it.
 ---
-Download this repository as .zip
+Download this repository as .zip and then extract it
 Open [Discord Developer Portal here](https://discord.com/developers/applications)
 ---
 Click "New Application"
@@ -37,7 +37,7 @@ Name the file what ever you want.
 ---
 Click "Upload File" and upload all the content
 These are..
-* Main.py - VERY IMPORTANT!!
+* main.py (inside the code folder) - VERY IMPORTANT!!
 * requirements.txt - Least VERY IMPORTANT! (this is to work the time and sleep modules)
 * That's all lol.
 ---
@@ -57,4 +57,4 @@ AFTER THAT CLICK "RUN"!
 # Thank you for using my spam bot :)
 ## Suggestions are being read just DM me or join my server: Bana#3175
 ## Join my server: https://discord.gg/ua76vwxPv6
-## If it doesn't work im so sorry but it worked for me.
+## If it doesn't work try checking if you missed a quotation it must me "like this" not "like this. or like this" it should be on each side.
