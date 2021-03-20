@@ -40,13 +40,13 @@ These are..
 * requirements.txt - Least VERY IMPORTANT! (this is just to if you want it o get into heroku)
 * That's all lol.
 ---
-In line 16 rename YOUR_TOKEN_HERE between the quotation marks.
+In line 17 rename YOUR_TOKEN_HERE between the quotation marks.
 it should be something like this.
-![In line 16 rename YOUR_TOKEN_HERE between the quotation marks.](https://cdn.discordapp.com/attachments/699214804551991336/822466202797342770/r3uO5hwEPAwuTgf8HfiqBO5aMejkAAAAASUVORK5CYII.png)
+![In line 17 rename YOUR_TOKEN_HERE between the quotation marks.](https://cdn.discordapp.com/attachments/699214804551991336/822466202797342770/r3uO5hwEPAwuTgf8HfiqBO5aMejkAAAAASUVORK5CYII.png)
 ---
-After that in line 17 rename THE_MESSAGE_YOU_WANT_TO_SPAM between the quotation marks.
+After that in line 18 rename THE_MESSAGE_YOU_WANT_TO_SPAM between the quotation marks.
 it should be something like this
-![After that in line 17 rename THE_MESSAGE_YOU_WANT_TO_SPAM between the quotation marks.](https://cdn.discordapp.com/attachments/699214804551991336/822467316054622228/XhYBFgErAuPfk1jl7J1FgEVg5iDA8nzmfJdsJiwCjhCYMXW7owRZOYsAi8D4f36wiLAIsAjMQARmEcj04noGpsamxCLAImBB4PN4.png)
+![After that in line 18 rename THE_MESSAGE_YOU_WANT_TO_SPAM between the quotation marks.](https://cdn.discordapp.com/attachments/699214804551991336/822467316054622228/XhYBFgErAuPfk1jl7J1FgEVg5iDA8nzmfJdsJiwCjhCYMXW7owRZOYsAi8D4f36wiLAIsAjMQARmEcj04noGpsamxCLAImBB4PN4.png)
 ---
 If you don't understand anything here's another explanation.
 ![If you don't understand anything here's another explanation.](https://cdn.discordapp.com/attachments/699214804551991336/822451401808412692/AowrCrHnwAAAAAElFTkSuQmCC.png)
