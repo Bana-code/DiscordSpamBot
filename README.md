@@ -1,5 +1,7 @@
 # DiscordSpamBot
 ## Bot made by Bana#3175
+## Bot's Prefix is s.
+## To start do s.start
 ### Instructions on how to get it.
 Open [Discord Developer Portal here](https://discord.com/developers/applications)
 ---
