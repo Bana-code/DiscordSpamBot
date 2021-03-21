@@ -23,15 +23,15 @@ client = commands.Bot(command_prefix = "s.")
 # Code Don't Touch Ever and EVER.
 @client.event
 async def on_ready():
-  await client.change_presence(status = discord.Status.idle, activity=discord.Game('Created by: Bana#3175'))
+  await client.change_presence(status = discord.Status.do_not_disturb, activity=discord.Game('Created by: Bana#3175'))
   print("Bot Online")
       
 @client.event
 async def on_message(message):
-    if message.content.startswith('s.start'):
+    if message.content.lower() == "s.start":
       await message.channel.send("Spam bot code made by: Bana#3175")
       await message.channel.send("||https://github.com/Bana-code/DiscordSpamBot||")
-      await message.channel.send("Do you want to start? y | n")
+      await message.channel.send("Do you want to start? Press y to continue (lowercase only)")
 
       def check(m):
         return m.content == 'y' and m.channel == message.channel
@@ -40,12 +40,8 @@ async def on_message(message):
       await message.channel.send("Starting")
       sleep(1)
       await message.channel.send("Started")
-      for y in range(70):
+      for y in range(70):   
         await message.channel.send(spam.format(msg))
-        await message.channel.send(spam.format(msg))
-        await message.channel.send(spam.format(msg))
-        await message.channel.send(spam.format(msg))
-        await message.channel.send(spam.format(msg))
-        await message.channel.send(spam.format(msg))
-        await message.channel.send(spam.format(msg))
-client.run(clienttoken)
+        sleep(0.8)
+
+client.run(clienttoken, bot=True, reconnect=True)
