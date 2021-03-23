@@ -2,7 +2,7 @@
 ## Bot made by Bana#3175
 ## Bot's Prefix is s.
 ## To start do s.start
-### Instructions on how to get it.
+### Instructions on how to install.
 ---
 Download this repository as .zip and then extract it
 ---
