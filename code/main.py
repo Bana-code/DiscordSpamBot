@@ -6,7 +6,7 @@
 # Bot sends 3 messages, inorder to prevent the bot from crashing but it's good tho ;)
 #
 # HOW TO STOP?
-# Inorder to stop the bot, stop the code from running
+# Inorder to stop the bot, stop the code from running or ctrl + c
 
 # imports don't touch
 import discord
@@ -34,7 +34,7 @@ async def on_message(message):
       await message.channel.send("Do you want to start? Press y to continue (lowercase only)")
 
       def check(m):
-        return m.content == 'y' and m.channel == message.channel
+        return m.content.lower() == 'y' and m.channel == message.channel
 
       msg = await client.wait_for('message', check=check)
       await message.channel.send("Starting")
