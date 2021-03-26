@@ -34,9 +34,7 @@ async def on_ready():
 @client.event
 async def on_message(message):
     if message.content.lower() == "s.start":
-      await message.channel.send("Spam bot code made by: Bana#3175")
-      await message.channel.send("||https://github.com/Bana-code/DiscordSpamBot||")
-      await message.channel.send("Do you want to start? Press y to continue (lowercase only)")
+      await message.channel.send("Spam bot code made by: Bana#3175\n||https://github.com/Bana-code/DiscordSpamBot||\nDo you want to start? Press y to continue (lowercase only)")
 
       def check(m):
         return m.content.lower() == 'y' and m.channel == message.channel
